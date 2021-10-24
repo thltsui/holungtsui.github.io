@@ -27,15 +27,9 @@ style="float: left; margin-right: 10px;" -->
 
 Hi, I'm Terence Tsui, a 3rd year PhD student studying stochastic analysis and population genetics at the [Statistics Department of The University of Oxford](https://www.stats.ox.ac.uk) under the supervision of [Prof. Alison Etheridge](https://www.stats.ox.ac.uk/all-people/alison-etheridge/). I am also part of the [Mathematics of Random Systems CDT](https://www.randomsystems-cdt.ac.uk/) and a [Rhodes Scholar](https://www.rhodeshouse.ox.ac.uk/scholars/rhodes-scholars-class-of-2019/terence-tsui-ho-lung/) from Hong Kong.
 
-As a research student, I am mainly interested in how macroscopic phenomena in biological populations emerge from microscopic dynamics at the level of individuals. In particular, I investigate the following questions:
+As a research student, I am mainly interested in how macroscopic phenomena in biological populations (genealogies, population dynamics) emerge from microscopic dynamics at the level of individuals (competition, births, deaths, establishment). To understand this, I often write down individual-based models and characterise their scaling limits as solutions to martingale problems or stochastic partial differential equations. 
 
-How do interactions at an individual level (e.g. competition, births, deaths, establishment) at different scales affect the overall population dynamics? 
-
-How do we measure / describe the effect of biological mechanisms (mutation, selection, recombination, DNA degradation) on the genetic patterns and genealogies within a population?
-
-To understand these questions, I often write down individual-based models and characterise their scaling limits as solutions to martingale problems or stochastic partial differential equations. 
-
-Apart from research, I am deeply passionate in addressing educational issues. I have multiple teaching roles within and beyond the University of Oxford and I work hard on educational outreach projects. I believe that every individual deserves quality education, and co-founded Project Access Hong Kong (now [Access Abroad Hong Kong](https://www.accessabroadhk.org/) )to increase access to overseas study for under-resourced students in my city. I have also promoted scholarship among Hong Kong postgraduate communities through my involvement with [Oxford University Hong Kong Scholars Association](https://oxhkscholars.web.ox.ac.uk/#/).
+Apart from research, I am deeply passionate in addressing educational issues. I have multiple teaching roles within and beyond the University of Oxford and I work hard on educational outreach projects. I co-founded Project Access Hong Kong (now [Access Abroad Hong Kong](https://www.accessabroadhk.org/) )to increase access to overseas study for under-resourced students in my city. I have also promoted scholarship among Hong Kong postgraduate communities through my involvement with [Oxford University Hong Kong Scholars Association](https://oxhkscholars.web.ox.ac.uk/#/).
 
 An avid listener of audio-books and a frequent traveller, I aspire to collect and live out stories to be told to future generations. 
 
