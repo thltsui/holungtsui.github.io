@@ -1,10 +1,10 @@
 ---
-title: "Lab Demonstrator - SB1 Applied and Computational Statistics"
+title: "Teaching Assistant - Mathematical Institute, University of Oxford"
 collection: teaching
-type: "Undergraduate course"
-excerpt: "The course aims to develop the theory of statistical methods, and also to introduce students to the analysis of data using a statistical package. The main topics are: simulation based inference, practical aspects of linear models, logistic regression and generalized linear models, and computer-intensive methods."
+type: "/"
+excerpt: "Courses taught: Probability, Measure and Martingales (2 classes), Functional Analysis I (1 class)"
 university: "University"
-semester: "Hilary 2020"
+semester: "Michaelmas Term 2020"
 ---
 
 
