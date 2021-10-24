@@ -25,14 +25,15 @@ style="float: left; margin-right: 10px;" -->
 
 ## About Me
 
-Hi, I'm Terence Tsui, a 3rd year PhD student studying stochastic analysis and population genetics at the [Statistics Department of The University of Oxford](https://www.stats.ox.ac.uk) under the supervision of [Prof. ALison Etheridge](https://www.stats.ox.ac.uk/all-people/alison-etheridge/). I am also part of the [EPSRC Centre for Doctoral Training in Mathematics of Random Systems: Analysis, Modelling and Algorithms](https://www.randomsystems-cdt.ac.uk/) and a [Rhodes Scholar](https://www.rhodeshouse.ox.ac.uk/scholars/rhodes-scholars-class-of-2019/terence-tsui-ho-lung/) from Hong Kong.
+Hi, I'm Terence Tsui, a 3rd year PhD student studying stochastic analysis and population genetics at the [Statistics Department of The University of Oxford](https://www.stats.ox.ac.uk) under the supervision of [Prof. Alison Etheridge](https://www.stats.ox.ac.uk/all-people/alison-etheridge/). I am also part of the [Mathematics of Random Systems CDT](https://www.randomsystems-cdt.ac.uk/) and a [Rhodes Scholar](https://www.rhodeshouse.ox.ac.uk/scholars/rhodes-scholars-class-of-2019/terence-tsui-ho-lung/) from Hong Kong.
 
 As a research student, I am mainly interested in how macroscopic phenomena in biological populations emerge from microscopic dynamics at the level of individuals. In particular, I investigate the following questions:
+
 How do interactions at an individual level (e.g. competition, births, deaths, establishment) at different scales affect the overall population dynamics? 
+
 How do we measure / describe the effect of biological mechanisms (mutation, selection, recombination, DNA degradation) on the genetic patterns and genealogies within a population?
 
-To understand these questions, I often write down individual-based models and characterise their scaling limits as solutions to martingale problems or stochastic partial differential equations. This characterisation then provides us with further insights. To achieve this step, I employ tools and techniques from analysis and probability theory, including but not limited to random measure theory, superprocesses, convergence theorems to martingale problems, and the theory of conditionally Poisson systems with lookdown representations. 
-
+To understand these questions, I often write down individual-based models and characterise their scaling limits as solutions to martingale problems or stochastic partial differential equations. 
 
 Apart from research, I am deeply passionate in addressing educational issues. I have multiple teaching roles within and beyond the University of Oxford and I work hard on educational outreach projects. I believe that every individual deserves quality education, and co-founded Project Access Hong Kong (now [Access Abroad Hong Kong](https://www.accessabroadhk.org/) )to increase access to overseas study for under-resourced students in my city. I have also promoted scholarship among Hong Kong postgraduate communities through my involvement with [Oxford University Hong Kong Scholars Association](https://oxhkscholars.web.ox.ac.uk/#/).
 
