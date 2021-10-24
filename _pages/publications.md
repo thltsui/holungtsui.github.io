@@ -21,15 +21,3 @@ To understand these questions, I often write down individual-based models and ch
   On-going work with Prof. Alison Etheridge, Prof. Thomas Kurtz, Mr. Ian Letter, Prof. Peter Ralph
 ### Abstract
   In this working paper, we consider population models in which individuals have separate juvenile and adult phases and density-regulated rates of birth, death and establishment. We want to investigate how different scalings of local density regulation, time, and carrying capacity, results in distinct population limits. We also want to present a lookdown representation for our models which allows us to describe the dynamics of lines of descent. In particular, the incorporation of a juvenile stage in our model is novel which leads to a much wider class of superprocess models which have local regulations on their spatial motions.
-
-<!--
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
-
--->
-
-------------
