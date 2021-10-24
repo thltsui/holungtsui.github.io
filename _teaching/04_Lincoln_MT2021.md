@@ -1,10 +1,10 @@
 ---
-title: "Teaching Assistant - Mathematical Institute, University of Oxford"
+title: "Non-Stipendiary Lecturer - Lincoln College, University of Oxford"
 collection: teaching
 type: "/"
-excerpt: "Courses taught: Probability, Measure and Martingales (2 classes), Functional Analysis I (1 class)"
+excerpt: "Courses taught: Probability, Statistics"
 university: "University"
-semester: "Michaelmas Term 2020"
+semester: "Michaelmas Term 2021, Hilary Term, Trinity Term 2022"
 ---
 
 
