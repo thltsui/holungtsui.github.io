@@ -4,5 +4,5 @@ collection: teaching
 type: "/"
 excerpt: "Courses taught: Integration, Calculus of Variation, Graph Theory"
 university: "University"
-semester: "Hilary Term 2021"
+semester: "Hilary Term 2021, Trinity Term 2021"
 ---
