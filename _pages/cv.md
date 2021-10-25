@@ -62,14 +62,14 @@ MMath in Mathematics <br>
 ---
 
 **2017 - Present** <br>
-**[Access Abroad Hong Kong]{https://www.accessabroadhk.org/}** | Mentor, Founding Head of External Affairs and Scholarships, Board Advisor <br>
+**[Access Abroad Hong Kong](https://www.accessabroadhk.org/)** | Mentor, Founding Head of External Affairs, Board Advisor <br>
 Access Abroad HK (formerly known as Project Access HK) is a non-profit organization operated by Oxford and Cambridge students, striving to widen access for Oxford and Cambridge for less-privileged local students. <br>
 •	Established AAHK as a leading student organisation in providing free overseas education advice to all members of the public <br>
 •	Helped multiple under-resourced mentees secure partial / full scholarships to realise their dreams of studying at Oxford / Cambridge <br>
  
 
 **2018 - 2021** <br>
-**[Oxford University Hong Kong Scholars Association](https://oxhkscholars.web.ox.ac.uk/#/)** | Academic Officer, President, External Affairs Officer <br>
+**[Oxford University Hong Kong Scholars Association](https://oxhkscholars.web.ox.ac.uk/#/)** | President, External Affairs Officer <br>
 Established in 2015, OxHKScholars was founded with the aims to promote academic exchanges and build relationships among Hong Kong scholars. 
 •	Hosted first-ever Oxford Hong Kong Forum to connect Hong Kong scholars with an international audience <br>
 •	Led a committee to organise multiple academic symposiums and postgraduate outreach events<br>
@@ -79,4 +79,4 @@ Established in 2015, OxHKScholars was founded with the aims to promote academic 
 
 ## Language Proficiencies 
 ---
-• English (IELTS: 8.0/9.0)    • Mandarin (Business level)    • Cantonese (Native)
+• Cantonese (Native) • English (Professional)    • Mandarin (Professional)    
