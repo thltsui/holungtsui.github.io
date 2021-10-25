@@ -26,8 +26,8 @@ DPhil in Mathematics <br>
 
 **2015-2019**<br>
 **University of Oxford**<br>
-MMath in Mathematics <br>
-•	First Class Honours, Dissertation Title: Branching Brownian Motion and Partial Differential Equation
+MMath in Mathematics (First Class Honours)<br>
+•	Dissertation Title: Branching Brownian Motion and Partial Differential Equation <br>
 
 ## Conference Presentations
 ---
@@ -55,7 +55,7 @@ MMath in Mathematics <br>
 •  Studied Stochastic Optimal Transport<br>
 
 **Jul 2017** <br>
-**Park City Mathematics Institute Summer School** | Park City Mathematics Institute, Institute for Advanced Study <br>
+**Park City Mathematics Institute Summer School** | PCMI, Institute for Advanced Study <br>
 •  Studied Random Matrix Theory with full funding from National Science Foundation (USA)<br>
 
 ## Community involvements
