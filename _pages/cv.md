@@ -28,6 +28,7 @@ DPhil in Mathematics <br>
 **University of Oxford**<br>
 MMath in Mathematics (First Class Honours)<br>
 •	Dissertation Title: Branching Brownian Motion and Partial Differential Equation <br>
+•	Recipient of the Jardine Scholarship <br>
 
 ## Conference Presentations
 ---
@@ -79,8 +80,10 @@ Established in 2015, OxHKScholars was founded with the aims to promote academic 
 •	Led a committee to organise multiple academic symposiums and postgraduate outreach events<br>
 
 
-
-
+## Scholarships and Achievements
+---
+• Rhodes Scholarship
+• Jardine Scholarship
 ## Language Proficiencies 
 ---
 • Cantonese (Native) • English (Professional)    • Mandarin (Professional)    
