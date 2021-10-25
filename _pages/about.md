@@ -31,6 +31,4 @@ As a research student, I am mainly interested in how macroscopic phenomena in bi
 
 Apart from research, I am deeply passionate in addressing educational issues. I have multiple teaching roles within and beyond the University of Oxford and I work hard on educational outreach projects. I co-founded Project Access Hong Kong (now [Access Abroad Hong Kong](https://www.accessabroadhk.org/)) to increase access to overseas study for under-resourced students in my city. I have also promoted scholarship among Hong Kong postgraduate communities through my involvement with [Oxford University Hong Kong Scholars Association](https://oxhkscholars.web.ox.ac.uk/#/).
 
-An avid listener of audio-books and a frequent traveller, I aspire to collect and live out stories to be told to future generations. 
-
->
+An avid listener of audio-books and a frequent traveller, I aspire to collect and live out stories to be told to future generations.
