@@ -26,7 +26,7 @@ DPhil in Mathematics <br>
 
 **2015-2019**<br>
 **University of Oxford**<br>
-MMATH Mathematics <br>
+MMath in Mathematics <br>
 •	First Class Honours, Dissertation Title: Branching Brownian Motion and Partial Differential Equation
 
 ## Conference Presentations
@@ -37,26 +37,41 @@ MMATH Mathematics <br>
 •	Talk: Uncovering genealogy of superprocesses through lookdown constructions 
 
 **Feb 2020** <br>
-**CIRM Winter School 2020 - PDE and probability for biology** | Centre International De Rencontres Mathematiques<br>
+**PDE and probability for biology** | Centre International De Rencontres Mathématiques<br>
 •Poster Presentation: Branching Interacting Systems and Fisher-KPP equation<br>
 
-**2017 - Present** <br>
-**Cambridge Spark** | Content Developer & Teaching Fellow <br>
-•	Designed machine learning projects (e.g SnP500 time series analysis, Kickstarter product success rate model etc.) for [*KATE*](https://cambridgespark.com/kate/), a proprietary AI-powered learning and assessment platform for upskilling in Data Science. <br>
-•	Organised bootcamps for the Applied Data Science course where I taught modules on time series, Explainable AI and recommender systems. <br>
+**Jan 2019** <br>
+**Joint Mathematics Meeting 2019** | American Mathematical Society <br>
+•  Poster Presentation: Fast Convergence with Series Expansion in Riemann Zeta Function<br>
 
-## University involvements
+## Summer and Winter Schools
+---
+**Feb 2020** <br>
+**CIRM Winter School** | Centre International De Rencontres Mathematiques<br>
+•  Studied Stochastic Population Dynamics<br>
+
+**Jul 2019** <br>
+**Probability Summer School at Saint-Flour** |  Laboratoire de Mathématiques Blaise Pascal  <br>
+•  Studied Stochastic Optimal Transport<br>
+
+**Jul 2017** <br>
+**Park City Mathematics Institute Summer School** | Park City Mathematics Institute, Institute for Advanced Study <br>
+•  Studied Random Matrix Theory with full funding from National Science Foundation (USA)<br>
+
+## Community involvements
 ---
 
-**2019 - Present** <br>
-**Juvenate HK** | Advisor <br>
-•	Provided advices for growing and managing [*Juvenate*](https://www.linkedin.com/company/juvenate-hk/mycompany/), a consultancy for helping social enterprise and NGOs to deliver greater social impact. <br>
+**2017 - Present** <br>
+**[Access Abroad Hong Kong]{https://www.accessabroadhk.org/}** | Mentor, Founding Head of External Affairs and Scholarships, Board Advisor <br>
+Access Abroad HK (formerly known as Project Access HK) is a non-profit organization operated by Oxford and Cambridge students, striving to widen access for Oxford and Cambridge for less-privileged local students. <br>
+•	Helped multiple under-resourced mentees secure partial / full scholarships to realise their dreams of studying at Oxford / Cambridge <br>
+•	Helped multiple under-resourced mentees secure partial / full scholarships to realise their dreams of studying at Oxford / Cambridge <br>
+ 
 
-**2017 - 2019** <br>
-**[Oxford Strategy Group Digial](https://www.osgdigitallabs.com/)** | Co-founder, Managing Director <br>
-•	Launched and managed Oxford's first machine learning consultancy with over 50 consultants, with over 30% being DPhil students. <br>
-•	Pitched 6 projects to multinational clients and maintained a diverse portfolio ranging from FTSE100 companies to Tech startups such as P&G, Unilever, MedTech and banks. <br>
-•	Partnered with industrial players such as Quantum Black, BCG Gamma, OC&C and CambridgeSpark. <br>
+**2018 - 2021** <br>
+**[Oxford University Hong Kong Scholars Association](https://oxhkscholars.web.ox.ac.uk/#/)** | Academic Officer, President, External Affairs Officer <br>
+•	Hosted first-ever Oxford Hong Kong Forum to connect Hong Kong scholars <br>
+•	Led a committee in organising multiple academic symposiums and postgraduate outreach events<br>
 
 
 
