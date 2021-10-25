@@ -17,34 +17,28 @@ a.uline {text-decoration:underline;}
 
 ## Education
 ---
-**2018 - Present**<br>
+**2019 - Present**<br>
 **University of Oxford**<br>
-DPhil in Statistical Machine Learning <br>
-*Advisor: Prof. Dino Sejdinovic, Prof. Mihai Cucuringu, Prof. Xiaowen Dong* <br>
-•	Recipient of the EPSRC & MRC Studentship for DPhil in Machine Learning <br>
+DPhil in Mathematics <br>
+*Advisor: Prof. Alison Etheridge* <br>
+•	Recipient of the Rhodes Scholarship and EPSRC Funding <br>
 
 
-**2017-2018**<br>
+**2015-2019**<br>
 **University of Oxford**<br>
-MMATH Mathematics and Statistics <br>
-•	First Class Honours, Ranked 2nd of the year
+MMATH Mathematics <br>
+•	First Class Honours, Dissertation Title: Branching Brownian Motion and Partial Differential Equation
 
-**2014-2017**<br>
-**University of Oxford**<br>
-BA Mathematics and Statistics (First Class)<br>
-•	First Class Honours, Ranked 1st of the year.
-
-## Industry experiences
+## Conference Presentations
 ---
 
-**2020 - 2021** <br>
-**gini** | In-house Machine Learning Consultant <br>
-•	Developed predictive model behind [*ginipredict*](https://www.gini.co/), a forecasting tool built for decision-makers who aren't data scientists.
+**Jul 2021** <br>
+**Research Students' Conference in Population Genetics** | University of Warwick  <br>
+•	Talk: Uncovering genealogy of superprocesses through lookdown constructions 
 
-**2019 - Present** <br>
-**Catalyst AI** | Machine Learning Consultant <br>
-•	(AgriTech) Developed a crop growth forecasting and irrigation scheduling model for an AgriTech software company. <br>
-•	(Fashion Retail) Developed a markdown price optimisation model for seasonal sales for a fashion retail company.<br>
+**Feb 2020** <br>
+**CIRM Winter School 2020 - PDE and probability for biology** | Centre International De Rencontres Mathematiques<br>
+•Poster Presentation: Branching Interacting Systems and Fisher-KPP equation<br>
 
 **2017 - Present** <br>
 **Cambridge Spark** | Content Developer & Teaching Fellow <br>
@@ -64,20 +58,7 @@ BA Mathematics and Statistics (First Class)<br>
 •	Pitched 6 projects to multinational clients and maintained a diverse portfolio ranging from FTSE100 companies to Tech startups such as P&G, Unilever, MedTech and banks. <br>
 •	Partnered with industrial players such as Quantum Black, BCG Gamma, OC&C and CambridgeSpark. <br>
 
-## Publications
----
 
-• **S. L. Chau**, J. Gonzalez, and D. Sejdinovic, RKHS-SHAP: Shapley values for Kernel methods, arXiv preprint: 2110.09167 (2021).
-
-• **S. L. Chau**, S. Bouabid, and D. Sejdinovic, Deconditional Downscaling with Gaussian Processes, in Advances in Neural Information Processing Systems (NeurIPS), 2021.
-
-• **S. L. Chau**, J.-F. Ton , J. Gonzalez, Y. W. Teh, and D. Sejdinovic, BayesIMP: Uncertainty Quantification for Causal Data Fusion, in Advances in Neural Information Processing Systems (NeurIPS), 2021.
-
-• Pu, X., **Chau, S. L**., Dong, X., & Sejdinovic, D. (2021). Kernel-Based Graph Learning From Smooth Signals: A Functional Viewpoint. IEEE Transactions on Signal and Information Processing over Networks, 7, 192-207
-
-•**Chau, Siu Lun**, Javier González, and Dino Sejdinovic. "Learning Inconsistent Preferences with Kernel Methods." arXiv preprint: 2006.03847 (2020).
-
-•**Chau, Siu Lun**, Mihai Cucuringu, and Dino Sejdinovic. "Spectral Ranking with Covariates." arXiv preprint: 2005.04035 (2020) <br>
 
 
 ## Language Proficiencies 
