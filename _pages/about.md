@@ -1,6 +1,6 @@
 ---
 permalink: /
-layout: archive
+layout: page
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -28,6 +28,8 @@ style="float: left; margin-right: 10px;" -->
 
 I’m Terence Tsui Ho Lung, a postdoctoral researcher at [MaThRad](https://mathrad.ac.uk) working on the interface between mathematics and nuclear engineering. My work utilises the theory of branching particle system and Monte Carlo methods to improve algorithms that simulate radiation transport in the context of reactor design evaluation.
 
-I studied stochastic analysis and population genetics as a DPhil student at the Statistics Department of The University of Oxford under the supervision of Prof. Alison Etheridge. I was also part of the [Mathematics of Random Systems CDT](https://www.randomsystems-cdt.ac.uk) and a Rhodes Scholar from Hong Kong.
+I studied stochastic analysis and population genetics as a DPhil student at the University of Oxford under the supervision of Prof. Alison Etheridge. I was also part of the [Mathematics of Random Systems CDT](https://www.randomsystems-cdt.ac.uk) and a Rhodes Scholar from Hong Kong.
 
-Apart from research, I am deeply passionate in addressing educational issues. I had multiple teaching roles within and beyond the University of Oxford and extensive experience on educational outreach projects. I co-founded Project Access Hong Kong (now [Access Abroad Hong Kong](https://www.accessabroadhk.org)) to increase access to overseas study for under-resourced students in my city. I also promoted scholarship among Hong Kong postgraduate communities through my involvement with Oxford University Hong Kong Scholars Association.
+Apart from research, I am deeply passionate in addressing educational issues. I had multiple teaching roles within and beyond the University of Oxford and extensive experience on educational outreach projects. I co-founded Project Access Hong Kong (now [Access Abroad Hong Kong](https://www.accessabroadhk.org)) to increase access to overseas study for under-resourced students in my city.
+
+
