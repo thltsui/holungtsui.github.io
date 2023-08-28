@@ -35,15 +35,15 @@ MMath in Mathematics (First Class Honours)<br>
 ## Work Experience
 ---
 **Sep 2023 - Present**<br>
-**MaThRad, University of Warwick**< | Postdoctoral Researcher at Mathematics and Nuclear Science <br>
-Project: Interdisciplinary research on probabilistic modelling of radiation transport
+**MaThRad, University of Warwick** | Postdoctoral Researcher in Maths and Nuclear Science <br>
+Project: Interdisciplinary research on the probabilistic modelling of radiation transport
 
 **Oct 2022 - Dec 2022**<br>
-**Oxford Strategy Group Digital, University of Oxford**< | AI Consultant <br>
+**Oxford Strategy Group Digital, University of Oxford** | AI Consultant <br>
 Project: Time-series sequence-to-sequence modelling for a waterflow-sensing start-up
 
 **May 2022 - Aug 2022**<br>
-**Hausdorff Research Institute of Mathematics, Bonn Germany**< | Visiting Researcher <br>
+**Hausdorff Research Institute of Mathematics, Bonn Germany** | Visiting Researcher <br>
 Project: Junior Trimester Programme 2022 - Stochastic modelling in the life science: From evolution to medicine
 
 
