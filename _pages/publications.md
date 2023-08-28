@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Publications"
-permalink: /publications/
+title: "Pre-prints"
+permalink: /pre-prints/
 author_profile: true
 classes: wide
 ---
