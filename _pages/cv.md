@@ -17,10 +17,11 @@ a.uline {text-decoration:underline;}
 
 ## Education
 ---
-**2019 - Present**<br>
+**2019 - 2023**<br>
 **University of Oxford**<br>
 DPhil in Mathematics <br>
 *Advisor: Prof. Alison Etheridge* <br>
+• Thesis Title: Scaling Limits of Branching and Fragmenting Particle Systems in Biology <br>
 •	Recipient of the Rhodes Scholarship and EPSRC Funding <br>
 
 
@@ -30,34 +31,37 @@ MMath in Mathematics (First Class Honours)<br>
 •	Dissertation Title: Branching Brownian Motion and Partial Differential Equation <br>
 •	Recipient of the Jardine Scholarship <br>
 
-## Conference Presentations
+
+## Work Experience
 ---
+**Sep 2023 - Present**<br>
+**MaThRad, University of Warwick**<br>
+Postdoctoral Researcher at Mathematics and Nuclear Science <br>
 
-**Jul 2021** <br>
-**Research Students' Conference in Population Genetics** | University of Warwick  <br>
-•	Talk: Uncovering genealogy of superprocesses through lookdown constructions 
+**Oct 2022 - Dec 2022**<br>
+**Oxford Strategy Group Digital, University of Oxford**<br>
+AI Consultant <br>
 
-**Feb 2020** <br>
-**PDE and probability for biology** | Centre International De Rencontres Mathématiques<br>
-•Poster Presentation: Branching Interacting Systems and Fisher-KPP equation<br>
+**May 2022 - Aug 2022**<br>
+**Hausdorff Research Institute of Mathematics, Bonn Germany**<br>
+Visiting Researcher <br>
 
-**Jan 2019** <br>
-**Joint Mathematics Meeting 2019** | American Mathematical Society <br>
-•  Poster Presentation: Fast Convergence with Series Expansion in Riemann Zeta Function<br>
 
-## Summer and Winter Schools
+
+
+## Invited Talks
 ---
-**Feb 2020** <br>
-**CIRM Winter School** | Centre International De Rencontres Mathematiques<br>
-•  Studied Stochastic Population Dynamics<br>
+**Mar 2023** <br>
+**Workshop in Branching and interacting particle systems** | University of Mainz  <br>
+•	Talk: Equilibrium and Scaling Limit of FRIME Processes
 
-**Jul 2019** <br>
-**Probability Summer School at Saint-Flour** |  Laboratoire de Mathématiques Blaise Pascal  <br>
-•  Studied Stochastic Optimal Transport<br>
+**Feb 2023** <br>
+**Seminar in Mathematical Oncology** | Mathematical Oncology Lab, University of Castille, La-Mancha  <br>
+•	Talk: Modelling cell-free DNA fragmentomics with a Markovian Method
 
-**Jul 2017** <br>
-**Park City Mathematics Institute Summer School** | PCMI, Institute for Advanced Study <br>
-•  Studied Random Matrix Theory with full funding from National Science Foundation (USA)<br>
+**Jun 2022** <br>
+**Oberseminar Stochastik** | University of Frankfurt  <br>
+•	Talk: Tracing Lineages in Locally-Regulated POpulation with Lookdown Construction
 
 ## Community involvements
 ---
