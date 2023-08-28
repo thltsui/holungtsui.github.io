@@ -6,7 +6,7 @@ author_profile: true
 classes: wide
 ---
 
-** Preprints ** <br>
+## Pre-prints
 
 {% include base_path %}
 
