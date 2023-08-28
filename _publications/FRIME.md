@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: single-publication
 title: "BayesIMP: Uncertainty Quantification for Causal Data Fusion"
 authors: <ins>Siu Lun Chau*</ins>, Jean-François Ton*, Javier González, Yee Whye Teh, Dino Sejdinovic
 venue: Conference on Neural Information Processing Systems (NeurIPS)
