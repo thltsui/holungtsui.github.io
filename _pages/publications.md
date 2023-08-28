@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Publications"
-permalink: /pubs/
+title: "Research"
+permalink: /research/
 author_profile: true
 classes: wide
 ---
