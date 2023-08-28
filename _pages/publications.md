@@ -1,10 +1,12 @@
 ---
 layout: archive
-title: "Pre-prints"
-permalink: /pre-prints/
+title: "Publications"
+permalink: /publications/
 author_profile: true
 classes: wide
 ---
+
+** Preprints ** <br>
 
 {% include base_path %}
 
